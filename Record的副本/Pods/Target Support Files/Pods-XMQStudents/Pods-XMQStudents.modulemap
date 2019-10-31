@@ -1,0 +1,6 @@
+framework module Pods_XMQStudents {
+  umbrella header "Pods-XMQStudents-umbrella.h"
+
+  export *
+  module * { export * }
+}
