@@ -1,0 +1,14 @@
+platform :ios, '9.0'
+
+target 'XMQStudents' do
+# Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+# Pods for XMQStudents
+
+pod 'Alamofire'
+pod 'ReachabilitySwift'
+pod 'Kingfisher'
+pod 'AliyunOSSiOS'
+
+end
